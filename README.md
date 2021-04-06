@@ -1,5 +1,5 @@
 ![POWERED BY| BLACK MAGIC](https://forthebadge.com/images/badges/powered-by-black-magic.svg) <br/>
-![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=B00bleaTea&layout=compact&theme=radical)
+![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=B00bleaTea&layout=compact&theme=radical&hide_border=true)
 
 ***Hi there! My name is Ari, I'm Non-Binary and I live in Lituania,<br/>
 I am 16 years old and I am a self-taught python programmer***
