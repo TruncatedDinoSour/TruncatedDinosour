@@ -10,6 +10,6 @@ I am 16 years old and I am a self-taught python programmer***
 ⚡ Fun fact about me *I like cacti 🌵* <br/>
 ✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
 🔭 [Style Your Github README](https://github.com/anuraghazra/github-readme-stats/)
-<br/><br/>
-#### Currently working on:<br/>
+
+### Currently working on:<br/>
   - [My Linux Configuration](https://github.com/B00bleaTea/my-linux-config)
