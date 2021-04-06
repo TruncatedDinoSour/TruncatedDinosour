@@ -8,6 +8,5 @@ I am 16 years old and I am a self-taught python programmer***
 🌱 I’m currently learning *C and Lua* <br/>
 😄 My pronouns are *They/Them* <br/>
 ⚡ Fun fact about me *I like cacti 🌵* <br/>
-👾 Reach me on discord *a cactusy mantis in pain#8476* <br/>
 ✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
 🔭 [Style Your Github README](https://github.com/anuraghazra/github-readme-stats/)
