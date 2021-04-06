@@ -10,7 +10,7 @@ I am 16 years old and I am a self-taught python programmer***
 😄 My pronouns are *They/Them* <br/>
 ⚡ Fun fact about me *I like cacti 🌵* <br/>
 ✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
-🔭 [Style Your Github README](https://github.com/anuraghazra/github-readme-stats/)
+🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
 
 ### Currently working on:<br/>
   - [My Linux Configuration](https://github.com/B00bleaTea/my-linux-config)
