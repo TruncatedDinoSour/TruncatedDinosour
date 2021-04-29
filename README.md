@@ -10,8 +10,8 @@ I am a self-taught python programmer and I am super cool B)***
 😄 My pronouns are *They/Them* <br/>
 ⚡ Fun fact about me *I like cacti 🌵* <br/>
 ✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
-🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
+🔭 [Style your GitHub README](anuraghazra/github-readme-stats/)
 
 ### Currently working on:<br/>
-  - [My Linux Configuration](https://github.com/B00bleaTea/dotfiles-cleaned)
-  - [Learning CPP](https://github.com/B00bleaTea/learning-cpp)
+  - [My Linux Configuration](dotfiles-cleaned)
+  - [Learning CPP](github.com/B00bleaTea/learning-cpp)
