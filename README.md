@@ -14,4 +14,3 @@ I am a self-taught python programmer and I am super cool B)***
 
 ### Currently working on:<br/>
   - [My Linux Configuration](https://github.com/dotfiles-cleaned)
-  - [Learning CPP](https://github.com/B00bleaTea/learning-cpp)
