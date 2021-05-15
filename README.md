@@ -6,7 +6,7 @@ I am a self-taught python programmer and I am super cool B)***
 
 ![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=radical)
 
-🌱 I’m currently learning *Nothing* <br/>
+🌱 I’m currently learning *C++* <br/>
 😄 My pronouns are *They/Them* <br/>
 ⚡ Fun fact about me *I like cacti 🌵* <br/>
 ✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
