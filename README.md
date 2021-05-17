@@ -13,4 +13,5 @@ I am a self-taught python programmer and I am super cool B)***
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
 
 ### Currently working on:<br/>
-  - [My Linux Configuration](https://github.com/TruncatedDinosour/dotfiles-cleaned)
+  - [My Linux Configuration](dotfiles-cleaned)
+  - [Learning C++](learning-cpp)
