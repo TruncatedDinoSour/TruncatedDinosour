@@ -15,3 +15,4 @@ I am a self-taught python programmer and I am super cool B)***
 ### Currently working on:<br/>
   - [My Website](https://github.com/TruncatedDinosour/website)
   - [Learning C++](https://github.com/TruncatedDinosour/learning-cpp)
+  - [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
