@@ -17,6 +17,6 @@ I am a self-taught python programmer and I am super cool B)***
   - [Learning C++](https://github.com/TruncatedDinosour/learning-cpp)
   - [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
 
-![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=10&column=8)
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=TruncatedDinosour&label=Profile%20views&color=282828&style=flat" alt="PROFILE VIEWS"/></p>
+
+![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=10&column=8)
