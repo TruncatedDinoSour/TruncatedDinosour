@@ -12,7 +12,6 @@ I am a self-taught python programmer and I am super cool B)***
 ✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
 
-![PROFILE VIEWS]()
 ### Currently working on:<br/>
   - [My Website](https://github.com/TruncatedDinosour/website)
   - [Learning C++](https://github.com/TruncatedDinosour/learning-cpp)
