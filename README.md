@@ -2,7 +2,7 @@
 ![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true)
 
 ***Hi there! My name is Ari, I'm Non-Binary and I live in Lituania,<br/>
-I am a self-taught python programmer and I am super cool B)***
+I am a self-taught python programmer and I like cats***
 
 ![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox)
 
