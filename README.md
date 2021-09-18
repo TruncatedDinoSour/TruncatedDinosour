@@ -8,8 +8,7 @@ I am a self-taught python programmer and I like cats***
 
 🌱 I’m currently learning *C++* <br/>
 😄 My pronouns are *She/They* <br/>
-⚡ Fun fact about me *I like cacti 🌵* <br/>
-✨ My intrests include *Programming, Gardening, Exploring and Being annoying* <br/>
+✨ My intrests are *Programming* <br/>
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
 
 ### Currently working on:<br/>
