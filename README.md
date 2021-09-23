@@ -1,4 +1,8 @@
 <!-- ![POWERED BY| BLACK MAGIC](https://forthebadge.com/images/badges/built-by-developers.svg) <br/> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=22272E">
+</p>
+
 ![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true)
 
 ***Hi there! My name is Ari, I'm Non-Binary and I live in Lituania,<br/>
