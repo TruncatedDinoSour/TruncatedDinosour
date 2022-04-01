@@ -17,6 +17,7 @@ I am a self-taught python programmer and I like cats***
 ### Currently working on:<br/>
   - [My Website](https://github.com/TruncatedDinosour/website) (https://www.ari-web.xyz/)
   - [Kos](https://github.com/TruncatedDinosour/kos)
+  - [Rys](https://github.com/TruncatedDinosour/rys)
   - [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=TruncatedDinosour&label=Profile%20views&color=282828&style=flat" alt="PROFILE VIEWS"/></p>
