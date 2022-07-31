@@ -15,9 +15,9 @@ I am a self-taught programmer***
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
 
 ### Currently working on:<br/>
-  - [My Website](https://github.com/TruncatedDinosour/website) (https://www.ari-web.xyz/)
-  - [Fa](https://github.com/TruncatedDinosour/fa)
-  - [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
+- [My Website](https://github.com/TruncatedDinosour/website) (https://www.ari-web.xyz/)
+- [Fa](https://github.com/TruncatedDinosour/fa)
+- [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=TruncatedDinosour&label=Profile%20views&color=282828&style=flat" alt="PROFILE VIEWS"/></p>
 
