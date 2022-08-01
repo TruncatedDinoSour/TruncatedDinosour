@@ -4,7 +4,7 @@
 
 ![Stats (languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel)
 
-***Hi there! My name is Ari, I'm a trangender woman and I live in Lituania,<br/>
+***Hi! My name is Ari, I'm a trangender woman and I live in Lituania,<br/>
 I am a self-taught programmer***
 
 ![Stats (commits)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel)
