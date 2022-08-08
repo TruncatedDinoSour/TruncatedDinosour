@@ -9,7 +9,7 @@ I am a self-taught programmer***
 
 ![Stats (commits)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel)
 
-🌱 I’m currently learning *C++* <br/>
+🌱 I’m currently learning *???* <br/>
 😄 My pronouns are *She/They* <br/>
 ✨ My intrests are *Programming* <br/>
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
