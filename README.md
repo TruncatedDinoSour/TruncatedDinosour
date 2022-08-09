@@ -1,3 +1,5 @@
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=22272E">
 </p>
