@@ -14,7 +14,7 @@ I am a self-taught programmer***
 🌱 I’m currently learning *???* <br/>
 😄 My pronouns are *She/They* <br/>
 ✨ My intrests are *Programming* <br/>
-🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/)
+🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/) <br/>
 🎶 My favourite song: [Girl in red - I'll die antway.](https://www.youtube.com/watch?v=8MMa35B3HT8)
 
 ### Currently working on:<br/>
