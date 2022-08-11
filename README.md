@@ -15,7 +15,7 @@ I am a self-taught programmer***
 😄 My pronouns are *She/They* <br/>
 ✨ My intrests are *Programming* <br/>
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/) <br/>
-🎶 My favourite song: [Girl in red - I'll die antway.](https://www.youtube.com/watch?v=8MMa35B3HT8)
+🎶 My favourite song: [Girl in red - I'll die anyway.](https://www.youtube.com/watch?v=8MMa35B3HT8)
 
 ### Currently working on:<br/>
 - [My Website](https://github.com/TruncatedDinosour/website) (https://www.ari-web.xyz/)
