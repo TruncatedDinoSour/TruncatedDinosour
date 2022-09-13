@@ -29,7 +29,7 @@ languages are Python and C++
 
 ### Tools and organizations:
 
-<span>
+<p align="center">
     <img src="/osi_membership_badge.svg" width="50px" />
     <img src="https://avatars.githubusercontent.com/u/99056985?s=200&v=4" width="50px" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" width="50px" />
@@ -41,7 +41,10 @@ languages are Python and C++
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" width="50px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Suckless_logo.svg/1200px-Suckless_logo.svg.png" width="50px" />
     <img src="https://i.ytimg.com/vi/6iTFCQ54_GA/hqdefault.jpg" width="50px" />
-</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50px" />
+    <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/subcommunities/intel-dark.svg?v=72ff93f7d507" width="50px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1971px-Firefox_logo%2C_2019.svg.png" width="50px" />
+</p>
 
 <br />
 
