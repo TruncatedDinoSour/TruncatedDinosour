@@ -2,7 +2,7 @@
     <a href="https://vshymanskyy.github.io/StandWithUkraine/">
         <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="#StandWithUkraine" />
     </a>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=22272E&count_private=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=00000000&count_private=true">
 </p>
 
 ![stats (languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel&count_private=true)
