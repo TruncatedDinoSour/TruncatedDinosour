@@ -1,30 +1,30 @@
-[![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=22272E">
+    <a href="https://vshymanskyy.github.io/StandWithUkraine/">
+        <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="#StandWithUkraine" />
+    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=22272E&count_private=true">
 </p>
 
-![Stats (languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel)
+![stats (languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel&count_private=true)
 
-```
-Hi,
-I'm Ari, I'm a self-taught, Lithuanian,
-open source software developer focused on Linux
-and other *nix operating systems, my main
-languages are Python and C++
-```
+> hello world, im ari, a self-taught lithuanian open source
+> developer, i mainly do python and c++, although i like to fuck
+> around in many languages including js, ts, asm, c and so on,
+> i dont have specific types of software i make so please stop asking
+> also, companies, please dont dm me about your crazy new product,
+> idc, i really dont, my email is for people, not you, gtfo
 
-![Stats (commits)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel)
+![stats (commits)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel&count_private=true)
 
 🌱 I’m currently learning *???* <br/>
 😄 My pronouns are *She/Her* <br/>
 ✨ My intrests are *Programming* <br/>
 🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/) <br/>
-🎶 My favourite song: *[Girl in red - I'll die anyway.](https://ari-web.xyz/yt/watch?v=8MMa35B3HT8)*
+🎶 My favourite song: *[Girl in red - I'll die anyway.](https://ari-web.xyz/m)*
 
 ### Currently working on:
 
-- [My Website](https://github.com/TruncatedDinosour/website) (https://www.ari-web.xyz/)
+- [My Website](https://github.com/TruncatedDinosour/website) (<https://www.ari-web.xyz/>)
 - [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
 
 ### Tools and organizations:
@@ -48,12 +48,8 @@ languages are Python and C++
 
 <br />
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=TruncatedDinosour&label=Profile%20views&color=282828&style=flat" alt="PROFILE VIEWS"/></p>
-
-![Stats (Throphes)](https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=15&column=8&exclude_repo=dino-kernel)
-
 <p align="center">
-
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=TruncatedDinosour&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+    <img src="https://komarev.com/ghpvc/?username=TruncatedDinosour&label=Profile%20views&color=282828&style=flat" alt="profile views" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=15&column=8&exclude_repo=dino-kernel&count_private=true" alt="stats (throphes)" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TruncatedDinosour&theme=gruvbox&count_private=true" alt="github activity" />
 </p>
