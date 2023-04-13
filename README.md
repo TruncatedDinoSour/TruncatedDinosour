@@ -7,7 +7,7 @@
     />
 </p>
 
-![stats (languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel&count_private=true&bg_color=00000000)
+![stats ( languages )](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel&count_private=true&bg_color=00000000)
 
 > hello world, im ari, a self-taught lithuanian open source
 > developer, i mainly do python and c++, although i like to fuck
@@ -16,20 +16,20 @@
 > also, companies, please dont dm me about your crazy new product,
 > idc, i really dont, my email is for people, not you, gtfo
 
-![stats (commits)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel&count_private=true&bg_color=00000000)
+![stats ( commits )](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel&count_private=true&bg_color=00000000)
 
-🌱 I’m currently learning *???* <br/>
-😄 My pronouns are *She/Her* <br/>
-✨ My intrests are *Programming* <br/>
-🔭 [Style your GitHub README](https://github.com/anuraghazra/github-readme-stats/) <br/>
-🎶 My favourite song: *[Girl in red - I'll die anyway.](https://ari-web.xyz/m)*
+🌱 im currently learning *???* <br/>
+😄 my pronouns are *she/her* <br/>
+✨ my intrests are *programming, a lot of programming, its an addiction i think, idk* <br/>
+🔭 [style your GitHub readme](https://github.com/anuraghazra/github-readme-stats/) <br/>
+🎶 my favourite song : *[girl in red - ill die anyway](https://ari-web.xyz/m)*
 
-### Currently working on:
+### currently working on :
 
-- [My Website](https://github.com/TruncatedDinosour/website) (<https://www.ari-web.xyz/>)
-- [My Dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
+- [my website](https://github.com/TruncatedDinosour/website) ( <https://www.ari-web.xyz/> )
+- [my dotfiles](https://github.com/TruncatedDinosour/dotfiles-cleaned)
 
-### Tools and organizations:
+### tools and organizations :
 
 <p align="center">
     <img src="/osi_membership_badge.svg" width="50px" />
@@ -136,7 +136,7 @@
     />
     <img
         src="https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=15&column=8&exclude_repo=dino-kernel&count_private=true&no-bg=true&no-frame=true"
-        alt="stats (throphes)"
+        alt="stats ( throphes )"
     />
     <img
         src="https://github-readme-activity-graph.cyclic.app/graph?username=TruncatedDinosour&theme=gruvbox&bg_color=00000000&count_private=true&hide_border=true"
