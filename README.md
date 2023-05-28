@@ -139,7 +139,7 @@
         alt="stats ( throphes )"
     />
     <img
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=TruncatedDinosour&theme=gruvbox&bg_color=00000000&count_private=true&hide_border=true"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=TruncatedDinosour&theme=gruvbox&bg_color=00000000&count_private=true&hide_border=true"
         alt="github activity"
     />
 </p>
