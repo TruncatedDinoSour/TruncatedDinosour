@@ -130,37 +130,38 @@
           <tbody>
             <tr>
               <td>
+                <tr></tr>
                 <a href="https://octo-ring.com/"
                   ><img
                     src="/octoring/top.png"
-                    width="99%"
+                    width="84%"
                     alt="Octo Ring logo"
                     align="top" /></a
                 ><br /><a href="https://octo-ring.com/p/TruncatedDinosour/prev"
                   ><img
                     src="/octoring/prev.png"
-                    width="33%"
+                    width="28%"
                     alt="previous"
                     align="top"
                     title="previous profile" /></a
                 ><a href="https://octo-ring.com/p/TruncatedDinosour/random"
                   ><img
                     src="/octoring/random.png"
-                    width="33%"
+                    width="28%"
                     alt="random"
                     align="top"
                     title="random profile" /></a
                 ><a href="https://octo-ring.com/p/TruncatedDinosour/next"
                   ><img
                     src="/octoring/next.png"
-                    width="33%"
+                    width="28%"
                     alt="next"
                     align="top"
                     title="next profile" /></a
                 ><br /><a href="https://octo-ring.com/"
                   ><img
                     src="/octoring/bottom.png"
-                    width="99%"
+                    width="84%"
                     alt="check out other github profiles in the octo ring"
                     align="top"
                 /></a>
