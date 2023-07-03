@@ -13,6 +13,7 @@
     -   python
     -   c
     -   c++
+    -   shellscripting ( POSIX and BASH mainly)
     -   can fuck around in other langs too
         -   asm
         -   js / ts
