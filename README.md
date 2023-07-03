@@ -138,6 +138,7 @@
         src="https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=15&column=8&exclude_repo=dino-kernel&count_private=true&no-bg=true&no-frame=true"
         alt="stats ( throphes )"
     />
+    <h3 align="center">basically my mental health tracker :</h3>
     <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=TruncatedDinosour&theme=gruvbox&bg_color=00000000&count_private=true&hide_border=true"
         alt="github activity"
