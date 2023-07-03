@@ -9,7 +9,7 @@
 -   15 yrs old
 -   self-taught open source developer <img src="/osi_membership_badge.svg" height="20px" />
 -   lithuanian ( i hate it here )
--   languages
+-   programming languages
     -   python
     -   c
     -   c++
