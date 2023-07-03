@@ -132,36 +132,36 @@
               <td>
                 <a href="https://octo-ring.com/"
                   ><img
-                    src="https://octo-ring.com/static/img/widget/top.png"
+                    src="/octoring/top.png"
                     width="99%"
                     alt="Octo Ring logo"
                     align="top" /></a
                 ><br /><a href="https://octo-ring.com/p/TruncatedDinosour/prev"
                   ><img
-                    src="https://octo-ring.com/static/img/widget/prev.png"
+                    src="/octoring/prev.png"
                     width="33%"
                     alt="previous"
                     align="top"
                     title="previous profile" /></a
                 ><a href="https://octo-ring.com/p/TruncatedDinosour/random"
                   ><img
-                    src="https://octo-ring.com/static/img/widget/random.png"
+                    src="/octoring/random.png"
                     width="33%"
                     alt="random"
                     align="top"
                     title="random profile" /></a
                 ><a href="https://octo-ring.com/p/TruncatedDinosour/next"
                   ><img
-                    src="https://octo-ring.com/static/img/widget/next.png"
+                    src="/octoring/next.png"
                     width="33%"
                     alt="next"
                     align="top"
                     title="next profile" /></a
                 ><br /><a href="https://octo-ring.com/"
                   ><img
-                    src="https://octo-ring.com/static/img/widget/bottom.png"
+                    src="/octoring/bottom.png"
                     width="99%"
-                    alt="check out other GitHub profiles in the Octo Ring"
+                    alt="check out other github profiles in the octo ring"
                     align="top"
                 /></a>
               </td>
