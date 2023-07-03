@@ -8,16 +8,16 @@
 
 -   15 yrs old
 -   self-taught open source developer <img src="/osi_membership_badge.svg" height="20px" />
--   lithuanian ( i hate it here )
--   programming languages
+-   lithuanian
+-   languages
     -   python
     -   c
     -   c++
-    -   shellscripting ( POSIX and BASH mainly)
+    -   shell scripting ( POSIX and BASH mainly)
     -   can fuck around in other langs too
         -   asm
         -   js / ts
-    -   frontend web stuff
+    -   front-end web stuff
         -   css
         -   scss
         -   html
