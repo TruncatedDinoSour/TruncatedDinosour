@@ -20,7 +20,7 @@
         -   css
         -   scss
         -   html
--   website : https://ari-web.xyz/ <img src="https://ari-web.xyz/favicon.ico?dummy=371662" width="20px" /> | <img src="https://server.ari-web.xyz/visit?dummy=371662" height="20px" /> views
+-   website : https://ari-web.xyz/ <img src="https://ari-web.xyz/favicon.ico?ref=github" width="20px" /> | <img src="https://server.ari-web.xyz/visit?ref=github" height="20px" /> views
 -   email : ari.web.xyz@gmail.com
 -   pronouns : she/her
 
