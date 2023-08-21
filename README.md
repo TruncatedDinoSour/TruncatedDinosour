@@ -23,6 +23,9 @@
         -   html
 -   website : https://ari-web.xyz/ <img src="https://ari-web.xyz/favicon.ico?ref=github" width="20px" /> | <img src="https://server.ari-web.xyz/visit?ref=github" height="20px" /> views
 -   email : ari.web.xyz@gmail.com
+-   gpg :
+    -    pgp : https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
+    -   ubuntu :https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x4fad63e936b305906a6c4894a50d5b4b599af8a2
 -   pronouns : she/her
 
 ## statistics and stuff
