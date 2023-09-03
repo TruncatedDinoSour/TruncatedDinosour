@@ -49,6 +49,15 @@
       </td>
     </tr>
     <tr>
+      <td align="center">streak</td>
+      <td align="center">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=TruncatedDinosour&theme=dark](https://github-readme-streak-stats.herokuapp.com?user=TruncatedDinosour&theme=dark&hide_border=true&background=00000000&count_private=true)"
+          alt="streak"
+        />
+      </td>
+    </tr>
+    <tr>
       <td align="center">commits</td>
       <td align="center">
         <img
