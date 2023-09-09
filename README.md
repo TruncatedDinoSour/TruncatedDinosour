@@ -6,7 +6,7 @@
 
 # hello ![profile views](https://komarev.com/ghpvc/?username=TruncatedDinosour&label=views&color=282828&style=for-the-badge&label=visitor), im ari
 
--   15 yrs old
+-   16 yrs old
 -   self-taught open source developer <img src="/osi_membership_badge.svg" height="20px" />
 -   lithuanian
 -   languages
