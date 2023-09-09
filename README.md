@@ -76,7 +76,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">activity ( basically a mental health tracher lol )</td>
+      <td align="center">activity ( basically a mental health tracker lol )</td>
       <td align="center">
         <img
           src="https://github-readme-activity-graph.vercel.app/graph?username=TruncatedDinosour&amp;theme=gruvbox&amp;bg_color=00000000&amp;count_private=true&amp;hide_border=true"
