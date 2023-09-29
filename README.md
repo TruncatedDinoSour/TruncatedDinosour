@@ -43,7 +43,7 @@
       <td align="center">languages</td>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;exclude_repo=dino-kernel&amp;count_private=true&amp;bg_color=00000000"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=dino-kernel&count_private=true&bg_color=00000000&langs_count=20"
           alt="languages"
         />
       </td>
@@ -61,7 +61,7 @@
       <td align="center">commits</td>
       <td align="center">
         <img
-          src="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&amp;show_icons=true&amp;hide_border=true&amp;theme=gruvbox&amp;exclude_repo=dino-kernel&amp;count_private=true&amp;bg_color=00000000"
+          src="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=dino-kernel&count_private=true&bg_color=00000000"
           alt="scommits"
         />
       </td>
@@ -70,7 +70,7 @@
       <td align="center">trophes</td>
       <td align="center">
         <img
-          src="https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&amp;theme=gruvbox&amp;margin-w=10&amp;margin-h=15&amp;column=8&amp;exclude_repo=dino-kernel&amp;count_private=true&amp;no-bg=true&amp;no-frame=true"
+          src="https://github-profile-trophy.vercel.app/?username=TruncatedDinosour&theme=gruvbox&margin-w=10&margin-h=15&column=8&exclude_repo=dino-kernel&count_private=true&no-bg=true&no-frame=true"
           alt="trophes"
         />
       </td>
@@ -79,7 +79,7 @@
       <td align="center">activity ( basically a mental health tracker lol )</td>
       <td align="center">
         <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=TruncatedDinosour&amp;theme=gruvbox&amp;bg_color=00000000&amp;count_private=true&amp;hide_border=true"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=TruncatedDinosour&theme=gruvbox&bg_color=00000000&count_private=true&hide_border=true"
           alt="github activity"
         />
       </td>
@@ -88,7 +88,7 @@
       <td align="center">tools and orgs</td>
       <td align="center">
         <img
-          src="https://avatars.githubusercontent.com/u/99056985?s=200&amp;v=4"
+          src="https://avatars.githubusercontent.com/u/99056985?s=200&v=4"
           width="50px"
         />
         <img
