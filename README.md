@@ -12,8 +12,8 @@
 -   languages
     -   python
     -   c
-    -   c++
-    -   shell scripting ( POSIX and BASH mainly)
+    -   c++ ( i barely use it but i can use it )
+    -   shell scripting ( POSIX and BASH mainly )
     -   can fuck around in other langs too
         -   asm
         -   js / ts
@@ -97,10 +97,6 @@
         />
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"
-          width="50px"
-        />
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
           width="50px"
         />
         <img
