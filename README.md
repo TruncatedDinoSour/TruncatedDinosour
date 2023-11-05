@@ -182,3 +182,7 @@
     </tr>
   </tbody>
 </table>
+
+## username
+
+i fucked up my username a while ago when i was channging, 'a while ago' being multiple yrs, before it was bubbletea in 13775p34k and some stuff changed, well rn im kinda stuck w TruncatedDinoSour ( i mispelled dinosour when i was changing it and now im stuck w it lol, so i at least made it look like not an accident )
