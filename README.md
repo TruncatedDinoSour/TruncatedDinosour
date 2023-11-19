@@ -27,7 +27,7 @@
     -   pgp hkps : https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
     -   ubuntu hkps : https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x4fad63e936b305906a6c4894a50d5b4b599af8a2
 -   pronouns : she/her
--   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari-web.xyz/btc)
+-   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari-web.xyz/btc) or [paypal me](https://ari-web.xyz/paypal)
 
 ## statistics and stuff
 
