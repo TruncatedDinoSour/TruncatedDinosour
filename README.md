@@ -29,6 +29,11 @@
 -   pronouns : she/her
 -   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari-web.xyz/btc) or [donate me on paypal](https://ari-web.xyz/paypal)
 
+## thanks my supporters
+
+- casey ( my best friend ) in **real life**
+- mario g on **paypal**
+
 ## statistics and stuff
 
 <table>
