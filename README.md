@@ -21,13 +21,13 @@
         -   css
         -   scss
         -   html
--   website : https://ari-web.xyz/ <img src="https://ari-web.xyz/favicon.ico?ref=github" width="20px" /> | <img src="https://server.ari-web.xyz/visit?ref=github" height="20px" /> views
+-   website : https://ari.lt/ <img src="https://ari.lt/favicon.ico?ref=github" width="20px" /> | <img src="https://server.ari.lt/visit?ref=github" height="20px" /> views
 -   email : ari.web.xyz@gmail.com
 -   gpg :
     -   pgp hkps : https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
     -   ubuntu hkps : https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x4fad63e936b305906a6c4894a50d5b4b599af8a2
 -   pronouns : she/her
--   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari-web.xyz/btc) or [donate me on paypal](https://ari-web.xyz/paypal) ( ari.web.xyz@gmail.com )
+-   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari.lt/btc) or [donate me on paypal](https://ari.lt/paypal) ( ari.web.xyz@gmail.com )
 
 ## thanks my supporters
 
