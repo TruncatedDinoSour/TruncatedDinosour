@@ -134,6 +134,9 @@
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1971px-Firefox_logo%2C_2019.svg.png"
           width="50px"
         />
+        <a href="https://ari.lt/">
+            <img src="https://ari.lt/badge.png" loading="lazy" alt="ari-web badge" height="31px" width="88px" />
+        </a>
       </td>
     </tr>
     <tr>
