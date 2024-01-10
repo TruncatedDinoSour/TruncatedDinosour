@@ -22,7 +22,6 @@
         -   scss
         -   html
 -   website : https://ari.lt/ <img src="https://ari.lt/favicon.ico?ref=github" width="20px" /> | <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github" height="20px" /> views | [@ari-lt](https://ari.lt/lh)
--   email : ari.web.xyz@gmail.com
 -   gpg :
     -   pgp hkps : https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
     -   ubuntu hkps : https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x4fad63e936b305906a6c4894a50d5b4b599af8a2
