@@ -28,7 +28,7 @@
 -   pronouns : she/her
 -   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari.lt/btc)
 -   contacts
-    - email : <ari.web.xyz@gmail.com>
+    - email : <ari@ari.lt>
     - matrix : [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
         - brain dump : [#dump:ari.lt](https://matrix.to/#/#dump:ari.lt)
     - xmpp : `ari@ari.lt` ( though `root@muc.ari.lt` would be preferred )
