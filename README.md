@@ -23,8 +23,8 @@
         -   html
 -   website : https://ari.lt/ <img src="https://ari.lt/favicon.ico?ref=github" width="20px" /> | <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github" height="20px" /> views | [@ari-lt](https://ari.lt/lh)
 -   gpg :
-    -   pgp hkps : https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
-    -   ubuntu hkps : https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x4fad63e936b305906a6c4894a50d5b4b599af8a2
+    -   pgp hkps : https://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
+    -   openpgp hkps :  https://keys.openpgp.org/vks/v1/by-fingerprint/4FAD63E936B305906A6C4894A50D5B4B599AF8A2 
 -   pronouns : she/her
 -   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari.lt/btc)
 -   contacts
