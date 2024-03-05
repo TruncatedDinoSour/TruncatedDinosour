@@ -31,7 +31,7 @@
     - email : <ari@ari.lt>
     - matrix : [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
         - brain dump : [#dump:ari.lt](https://matrix.to/#/#dump:ari.lt)
-    - xmpp : `ari@ari.lt` ( though `root@muc.ari.lt` would be preferred )
+        - room : [#root:ari.lt](https://matrix.to/#/#root:ari.lt)
 
 ## thanks my supporters
 
