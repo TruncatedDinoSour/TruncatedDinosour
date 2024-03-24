@@ -28,7 +28,7 @@
 -   pronouns : she/her
 -   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari.lt/btc)
 -   contacts
-    - email : <ari@ari.lt>
+    - email : <ari@ari.lt> ( <https://keys.mailvelope.com/pks/lookup?op=get&search=ari@ari.lt> )
     - matrix : [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
         - brain dump : [#dump:ari.lt](https://matrix.to/#/#dump:ari.lt)
         - room : [#root:ari.lt](https://matrix.to/#/#root:ari.lt)
