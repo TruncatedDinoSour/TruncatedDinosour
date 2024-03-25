@@ -14,13 +14,12 @@
     -   c
     -   c++ ( i barely use it but i can use it )
     -   shell scripting ( POSIX and BASH mainly )
-    -   can fuck around in other langs too
-        -   asm
-        -   js / ts
+    -   can fuck around in other langs too, i'm not very language dependant, same shit different asshole usually ( unless it's something like haskell lmao )
     -   front-end web stuff
         -   css
         -   scss
         -   html
+        -   js / ts
 -   website : https://ari.lt/ <img src="https://ari.lt/favicon.ico?ref=github" width="20px" /> | <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github" height="20px" /> views | [@ari-lt](https://ari.lt/lh)
 -   gpg :
     -   pgp hkps : https://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
