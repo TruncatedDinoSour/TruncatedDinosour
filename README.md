@@ -33,6 +33,12 @@
         - brain dump : [#dump:ari.lt](https://matrix.to/#/#dump:ari.lt)
         - room : [#root:ari.lt](https://matrix.to/#/#root:ari.lt)
 
+## my cat
+
+<img src="https://github.com/TruncatedDinoSour/TruncatedDinosour/assets/71613062/bf697902-9be4-4611-bc2f-2b8130d2c9aa" width="256px" />
+
+she likes boxes
+
 ## thanks my supporters
 
 <https://ari.lt/page/thanks>
