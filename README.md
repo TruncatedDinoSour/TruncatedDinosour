@@ -39,7 +39,7 @@
 
 she likes boxes
 
-## thanks my supporters
+## thanks to my supporters
 
 <https://ari.lt/page/thanks>
 
