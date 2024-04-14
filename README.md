@@ -118,9 +118,6 @@ she likes boxes
           width="50px"
         />
         <img
-          src="https://camo.githubusercontent.com/64b1f535115add5713c419514a1bb8e76aeafbc2e9b6b91c00ddfd697713bbb0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f707974686f6e40302e302e302f707974686f6e5f323536783235362e706e67"
-          width="50px"
-        /><img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"
           width="50px"
         />
