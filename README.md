@@ -31,6 +31,7 @@
     - matrix : [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
         - brain dump : [#dump:ari.lt](https://matrix.to/#/#dump:ari.lt)
         - room : [#root:ari.lt](https://matrix.to/#/#root:ari.lt)
+    - fedi : [@ari@ak.ari.lt](https://ak.ari.lt/ari)
 
 ## my cat
 
