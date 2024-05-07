@@ -25,7 +25,7 @@
     -   pgp hkps : https://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
     -   openpgp hkps :  https://keys.openpgp.org/vks/v1/by-fingerprint/4FAD63E936B305906A6C4894A50D5B4B599AF8A2 
 -   pronouns : she/her
--   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari.lt/btc)
+-   want to support ? bitcoin [bc1qn3k75kmyvpw9sc58t63hk4ej4pc0d0w52tvj7w](https://ari.lt/btc) or monero [451VZy8FPDXCVvKWkq5cby3V24ApLnjaTdwDgKG11uqbUJYjxQWZVKiiefi4HvFd7haeUtGFRBaxgKNTr3vR78pkMzgJaAZ](https://ari.lt/xmr)
 -   contacts
     - email : <ari@ari.lt> ( <https://keys.mailvelope.com/pks/lookup?op=get&search=ari@ari.lt> )
     - matrix : [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
