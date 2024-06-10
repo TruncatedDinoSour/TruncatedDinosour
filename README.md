@@ -29,8 +29,9 @@
 -   contacts
     - email : <ari@ari.lt> ( <https://keys.mailvelope.com/pks/lookup?op=get&search=ari@ari.lt> )
     - matrix : [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
-        - brain dump : [#dump:ari.lt](https://matrix.to/#/#dump:ari.lt)
         - room : [#root:ari.lt](https://matrix.to/#/#root:ari.lt)
+    - xmpp : [ari@ari.lt](xmpp:ari@ari.lt)
+        - room : [root@muc.ari.lt](xmpp:root@muc.ari.lt?join)
     - fedi : [@ari@ak.ari.lt](https://ak.ari.lt/ari)
 
 ## my cat
