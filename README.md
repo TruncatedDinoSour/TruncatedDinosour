@@ -20,7 +20,7 @@
         -   scss
         -   html
         -   js / ts
--   website : https://ari.lt/ <img src="https://ari.lt/favicon.ico?ref=github" width="20px" /> | <img src="https://ari.lt/counter.svg?ref=github" height="20px" /> views | [@ari-lt](https://ari.lt/lh)
+-   website : https://ari.lt/ <img src="https://ari.lt/favicon.ico?ref=github" width="20px" /> | <img src="https://ari.lt/counter.svg?ref=github&reload=1" height="20px" /> views | [@ari-lt](https://ari.lt/lh)
 -   gpg :
     -   pgp hkps : https://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xA50D5B4B599AF8A2
     -   openpgp hkps :  https://keys.openpgp.org/vks/v1/by-fingerprint/4FAD63E936B305906A6C4894A50D5B4B599AF8A2 
