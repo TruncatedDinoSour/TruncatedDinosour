@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/TruncatedDinosour>
 # i have migrated to a self-hosted forgejo instance !! <https://git.ari.lt/ari>
 
 <p align="center">
