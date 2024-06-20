@@ -1,3 +1,5 @@
+# i have migrated to a self-hosted forgejo instance !! <https://git.ari.lt/ari>
+
 <p align="center">
     <a href="https://vshymanskyy.github.io/StandWithUkraine/">
         <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="#StandWithUkraine" />
